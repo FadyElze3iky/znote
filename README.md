@@ -2,17 +2,12 @@
 
 Welcome to the **Note App**! This is a simple and intuitive note-taking application designed to help users manage their notes efficiently. Built using **Jetpack Compose** and **Room**, this app showcases my journey into Android development after mastering Flutter. 
 
-## Table of Contents
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [Learning Journey](#learning-journey)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
+
+https://github.com/user-attachments/assets/1eb392b7-a907-4386-97e0-67c0c31300a9
+
+
 
 ## Features
 
@@ -29,7 +24,7 @@ Welcome to the **Note App**! This is a simple and intuitive note-taking applicat
 - **Jetpack Compose**: Utilized for building the user interface with a declarative approach, allowing for easier and faster UI development.
 - **Room**: A persistent library that provides an abstraction layer over SQLite, making it easier to work with databases in Android.
 - **Dagger Hilt**: A dependency injection library that simplifies the process of managing dependencies in Android applications.
-- **Clean Architecture**: Following principles that enhance maintainability, testability, and scalability of the application.
+- **Clean Architecture**: Following principles that enhance the maintainability, testability, and scalability of the application.
 
 ## Installation
 
