@@ -10,14 +10,15 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.znote.AppNavigator
 import com.example.znote.home.presentation.viewmodel.NoteViewModel
 import com.example.znote.screen.SplashScreen
 import com.example.znote.ui.theme.NoteAppTheme
 import dagger.hilt.android.AndroidEntryPoint
 
+//test git
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
+
     private val viewModel: NoteViewModel by viewModels()
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
